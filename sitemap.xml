@@ -1,1 +1,74 @@
-<Sitemap: https://bosta95.github.io/site/>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://bosta95.github.io/site/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/installation-facile-rapide.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/installation-player-lite.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/offre-3mois.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/offre-6mois.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/offre-12mois.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/astuces-infos.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/faq.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/contact.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/qui-sommes-nous.html</loc>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/conditions.html</loc>
+    <priority>0.40</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/confidentiality.html</loc>
+    <priority>0.40</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/cookies.html</loc>
+    <priority>0.40</priority>
+  </url>
+
+  <url>
+    <loc>https://bosta95.github.io/site/mentions-legales.html</loc>
+    <priority>0.40</priority>
+  </url>
+
+</urlset>
